@@ -1,2 +1,2 @@
 # TIC_TAC_TOE
-tic tac toe game using tkinter
+Tic Tac Toe game using tkinter
