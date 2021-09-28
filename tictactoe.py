@@ -225,3 +225,6 @@ options_menu.add_command(label="Rest Game", command=reset)
 reset()
 
 root.mainloop()
+
+# @sujaykummari
+# https://github.com/sujaykummari
