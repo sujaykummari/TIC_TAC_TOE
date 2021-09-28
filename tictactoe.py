@@ -2,8 +2,10 @@ from tkinter import *
 from tkinter import messagebox
 
 root = Tk()
-root.title('Codemy.com - Tic-Tac-Toe')
-
+root.title('Tic-Tac-Toe')
+root.resizable(width=False,height=False)
+pic= PhotoImage(file= r'tic-tac-toe .png')
+root.iconphoto(False, pic)
 
 # X starts so true
 clicked = True
